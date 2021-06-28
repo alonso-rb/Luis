@@ -35,5 +35,5 @@ A raíz de la pandemia del Covid 19, el Gobierno de El Salvador con el fin de pr
 
 >### **Formularios**
 
-![imagen28](https://user-images.githubusercontent.com/62676424/123580713-9aad1500-d797-11eb-9687-64a02a900019.png)
+![imagen30](https://user-images.githubusercontent.com/62676424/123580826-cfb96780-d797-11eb-97ea-6f668f608c97.png)
 

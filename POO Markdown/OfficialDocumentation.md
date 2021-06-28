@@ -1,6 +1,7 @@
 # **DOCUMENTACIÓN** **OFICIAL**
-##  Aspectos técnicos del programa
 ***
+##  Aspectos técnicos del programa
+
 > ###  **Softwares instalados**
 
 **Visual Studio Community 2019.** Versión del software: 16.10.2.
@@ -26,7 +27,6 @@
 **Microsoft.EntityFrameworkCore.Design.** Versión del paquete: 5.0.7.
 
 ## **Manual de Usuario**
-***
 
 > ### **Descripción general del software**
 

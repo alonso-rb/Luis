@@ -3,17 +3,11 @@
 ***
 > ###  **Softwares instalados**
 
-**Visual Studio Community 2019**
+**Visual Studio Community 2019.** Versión del software: 16.10.2.
 
-Versión del software: 16.10.2.
+**MySQL Server.** Versión del software: 8.0.19.
 
-**MySQL Server**
-
-Versión del software: 8.0.19.
-
-**MySQL Workbench**
-
-Versión del software: 8.0.19.
+**MySQL Workbench.** Versión del software: 8.0.19.
 
 > ### **Patrones de diseño**
 
@@ -21,25 +15,15 @@ Versión del software: 8.0.19.
 
 > ### **Paquetes externos**
 
-**Itext7**
+**Itext7.** Versión del paquete: 7.1.15.
 
-Versión del paquete: 7.1.15
+**ItextSharp.** Versión del paquete: 5.5.13.2.
 
-**ItextSharp**
+**MySql.EntityFrameworkCore.** Versión del paquete: 5.0.3.1.
 
-Versión del paquete: 5.5.13.2
+**Microsoft.EntityFrameworkCore.** Versión del paquete: 5.0.7.
 
-**MySql.EntityFrameworkCore**
-
-Versión del paquete: 5.0.3.1
-
-**Microsoft.EntityFrameworkCore**
-
-Versión del paquete: 5.0.7
-
-**Microsoft.EntityFrameworkCore.Design**
-
-Versión del paquete: 5.0.7
+**Microsoft.EntityFrameworkCore.Design.** Versión del paquete: 5.0.7.
 
 ## **Manual de Usuario**
 ***

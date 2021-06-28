@@ -50,6 +50,13 @@ El programa comienza con "Inicio de Sesión", el cual, le permite al gestor colo
 
 Una vez se inicia sesión correctamente se dirige hacia el menú principal, el menú principal tiene 3 botones los cuales permiten al usuario dirigirse a tres partes del programa, las cuales son: registro (permite al gestor registrar a un ciudadano), prechequeo (permite al gestor buscar a un ciudadano, modificar sus datos de ser necesario o crearlos y avanzarlo en la cola) y monitoreo (permite ver si hay alguien en cola, registrar el momento en el que llega al monitoreo, avanzarlo a vacunación y posterior a ello, a observación donde se registra la cita para la segunda dósis).
 
+#### **Formulario: Registro**
+
+![RegistroCiudadanos](https://user-images.githubusercontent.com/62676424/123672393-7fc0bc00-d7fc-11eb-8d60-1049e76b2cc9.jpeg)
+
+Al escoger la opción de registro en el menú, se ingresa hacia el formulario Registro, ahí se deberá completar correctamente los datos que se solicitan; de manera obligatoria se debe completar: número de DUI (sin guion y recordando que los números de DUI y tienen nueve dígitos), nombre de la persona, dirección actual, número de teléfono (sin guion y recordando que los teléfonos tiene ocho dígitos) y la fecha de nacimiento de la persona; de manera opcional se debe completar el correo electrónico, si pertenece a una institución de prioridad deberá completar el número identificador y seleccionar a la institución a la que pertenece con la barra desplegable "Escoja la institución" (de pertencer a una institución, es imperativo que ingrese el número identificador y seleccione la institución, si uno de los dos datos falta, no le permitirá avanzar), y finalmente seleccionar los recuadros correpondientes a las enfermedades crónicas que padece, de no padecer ninguna, simplemente no seleccionar ninguna opción.
+
+Abajo de los datos a solicitar hay dos botones, el primero , de izquierda a derecha, es generar PDF, el segundo es el botón Guardar. El botón Guardar permite registra 
 
 
 

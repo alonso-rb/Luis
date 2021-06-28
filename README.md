@@ -45,10 +45,10 @@ El programa comienza con "Inicio de Sesión", el cual, le permite al gestor colo
 
 #### **Formulario: Menú**
 
-![MenuPrincipal](https://user-images.githubusercontent.com/62676424/123672178-48520f80-d7fc-11eb-9e05-67ab20b4dc38.jpeg)
+![FRM NEW MENU](https://user-images.githubusercontent.com/62676424/123704144-9548dc80-d822-11eb-84b0-74c1d8db03c6.jpeg)
 
 
-Una vez se inicia sesión correctamente se dirige hacia el menú principal, el menú principal tiene 3 botones los cuales permiten al usuario dirigirse a tres partes del programa, las cuales son: registro (permite al gestor registrar a un ciudadano), prechequeo (permite al gestor buscar a un ciudadano, modificar sus datos de ser necesario o crearlos y avanzarlo en la cola) y monitoreo (permite ver si hay alguien en cola, registrar el momento en el que llega al monitoreo, avanzarlo a vacunación y posterior a ello, a observación donde se registra la cita para la segunda dósis).
+Una vez se inicia sesión correctamente se dirige hacia el menú principal, el menú principal tiene 4 botones los cuales permiten al usuario dirigirse a CUATRO partes del programa, las cuales son: registro (permite al gestor registrar a un ciudadano), prechequeo (permite al gestor buscar a un ciudadano, modificar sus datos de ser necesario o crearlos y avanzarlo en la cola) Y monitoreo (permite ver si hay alguien en cola, registrar el momento en el que llega al monitoreo, avanzarlo a vacunación y posterior a ello, a observación donde se registra la cita para la segunda dósis).
 
 #### **Formulario: Registro**
 
@@ -56,7 +56,17 @@ Una vez se inicia sesión correctamente se dirige hacia el menú principal, el m
 
 Al escoger la opción de registro en el menú, se ingresa hacia el formulario Registro, ahí se deberá completar correctamente los datos que se solicitan; de manera obligatoria se debe completar: número de DUI (sin guion y recordando que los números de DUI y tienen nueve dígitos), nombre de la persona, dirección actual, número de teléfono (sin guion y recordando que los teléfonos tiene ocho dígitos) y la fecha de nacimiento de la persona; de manera opcional se debe completar el correo electrónico, si pertenece a una institución de prioridad deberá completar el número identificador y seleccionar a la institución a la que pertenece con la barra desplegable "Escoja la institución" (de pertencer a una institución, es imperativo que ingrese el número identificador y seleccione la institución, si uno de los dos datos falta, no le permitirá avanzar), y finalmente seleccionar los recuadros correpondientes a las enfermedades crónicas que padece, de no padecer ninguna, simplemente no seleccionar ninguna opción.
 
-Abajo de los datos a solicitar hay dos botones, el primero , de izquierda a derecha, es generar PDF, el segundo es el botón Guardar. El botón Guardar permite registra 
+Abajo de los datos a solicitar hay dos botones, el primero , de izquierda a derecha, es generar PDF, el segundo es el botón Guardar. 
+
+El botón Guardar permite registrar al ciudadano en el sistema, al igual que registrar su cita, de haber llenado adecuadamente el formulario, aparecerá un cuadro de diálogo, anunciando el éxito de la operación.
+
+![RegCiudaÉxito](https://user-images.githubusercontent.com/62676424/123703512-b4933a00-d821-11eb-998b-f0a892afbe1b.jpeg)
+
+El botón generar PDF permite generar y guardar en la computadora un documento PDF, esto se podrá hacer únicamente si usted ha registrado al usuario con anticipación, de lo contrario, dará error.
+
+![GenerarPDFCiudadano](https://user-images.githubusercontent.com/62676424/123703742-0b007880-d822-11eb-8194-094762ce5900.jpeg)
+
+#### **Formulario: Prechequeo**
 
 
 

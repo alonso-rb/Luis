@@ -2,8 +2,11 @@
 ##  Aspectos técnicos del programa
 ***
 > ###  **Softwares instalados**
+
 **Visual Studio Community 2019**
+
 Versión del software: 16.10.2.
+
 **MySQL Server**
 Versión del software: 8.0.19.
 **MySQL Workbench**

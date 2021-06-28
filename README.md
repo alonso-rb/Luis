@@ -13,7 +13,7 @@
 
 > ### **Patrones de diseño**
 
-**View Model**: 
+**View Model**: El patrón de diseño view model fue utilizado en nuestro proyecto, esto debido a la organización y facilidad que otorga al trabajar, con todos los forms que se generaron en una sola carpeta (View), permite que todas las interfaces gráficas estén agrupadas y sea más fácil de trabajar con ellas.
 
 > ### **Paquetes externos**
 
@@ -31,9 +31,14 @@
 
 > ### **Descripción general del software**
 
-A raíz de la pandemia del Covid 19, el Gobierno de El Salvador con el fin de proteger la salud de la población ha comenzado la gestión del proceso de vacunación en todo el país, para ellos, se necesita un software que sea permita facilitar ese proceso. Para solventar esa necesidad se ha creado el software "Cabina de vacunación", el cual gestiona el proceso de vacunación de una persona a través de un usuario que administra el programa (conocido como gestor), para ingresar al sistema, el gestor debe iniciar sesión colocando correctamente el nombre de usuario y contraseña que se han establecido para él Una vez ingresado al sistema, se le presenta al gestor, un menú con dos opciones disponibles, la primera registrar al usuario, la segunda prechequeo. Si el usuario escoge registro, una vez complete los campos necesarios, podrá registrar al usuario, registrar la cita, y obtener los datos de la misma. Si el usuario escoge prechequeo tendrá la opción de buscar un usuario, completar o modificar sus datos de ser necesario, avanzarlo en la fila, registrar su proceso de vacunación y finalmente asignarle una segunda cita. Al finalizar cualquiera de los dos procesos, el gestor puede regresar al menú principal, en la que, podrá presionar el botón de cerrar sesión para salir de su sesión y finalizar el programa.
+A raíz de la pandemia del Covid 19, el Gobierno de El Salvador con el fin de proteger la salud de la población ha comenzado la gestión del proceso de vacunación en todo el país, para ellos, se necesita un software que sea permita facilitar ese proceso. Para solventar esa necesidad se ha creado el software "Cabina de vacunación", el cual gestiona el proceso de vacunación de una persona a través de un usuario que administra el programa (conocido como gestor), para ingresar al sistema, el gestor debe iniciar sesión colocando correctamente el nombre de usuario y contraseña que se han establecido para él Una vez ingresado al sistema, se le presenta al gestor, un menú con tres opciones disponibles, la primera registrar al usuario, la segunda prechequeo, la tercera monitoreo de citas. Si el usuario escoge registro, una vez complete los campos necesarios, podrá registrar al usuario, registrar la cita, y obtener los datos de la misma. Si el usuario escoge prechequeo tendrá la opción de buscar un usuario, completar o modificar sus datos de ser necesario, avanzarlo en la fila, registrar su proceso de vacunación y finalmente asignarle una segunda cita. Al finalizar cualquiera de los dos procesos, el gestor puede regresar al menú principal, en la que, podrá presionar el botón de cerrar sesión para salir de su sesión y finalizar el programa.
 
 >### **Formularios**
 
-![imagen30](https://user-images.githubusercontent.com/62676424/123580826-cfb96780-d797-11eb-97ea-6f668f608c97.png)
+A continuación se presentarán los 6 formularios junto con su descripción, funcionalidad e instrucciones de uso.
 
+#### **Formulario: Inicio de Sesión**
+
+![InicioSesion](https://user-images.githubusercontent.com/62676424/123669058-f1970680-d7f8-11eb-834e-bea6df45e98a.jpeg)
+
+El programa comienza con "Inicio de Sesión", el cual, le permite al gestor colocar su nombre de usuario y contraseña para iniciar sesión en la plataforma y utilizarla. Es imperativo que el usuario coloque correctamente sus datos, caso contrario, no podrá ingresar a la plataforma.

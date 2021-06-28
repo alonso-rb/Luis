@@ -34,5 +34,6 @@
 A raíz de la pandemia del Covid 19, el Gobierno de El Salvador con el fin de proteger la salud de la población ha comenzado la gestión del proceso de vacunación en todo el país, para ellos, se necesita un software que sea permita facilitar ese proceso. Para solventar esa necesidad se ha creado el software "Cabina de vacunación", el cual gestiona el proceso de vacunación de una persona a través de un usuario que administra el programa (conocido como gestor), para ingresar al sistema, el gestor debe iniciar sesión colocando correctamente el nombre de usuario y contraseña que se han establecido para él Una vez ingresado al sistema, se le presenta al gestor, un menú con dos opciones disponibles, la primera registrar al usuario, la segunda prechequeo. Si el usuario escoge registro, una vez complete los campos necesarios, podrá registrar al usuario, registrar la cita, y obtener los datos de la misma. Si el usuario escoge prechequeo tendrá la opción de buscar un usuario, completar o modificar sus datos de ser necesario, avanzarlo en la fila, registrar su proceso de vacunación y finalmente asignarle una segunda cita. Al finalizar cualquiera de los dos procesos, el gestor puede regresar al menú principal, en la que, podrá presionar el botón de cerrar sesión para salir de su sesión y finalizar el programa.
 
 >### **Formularios**
-![Imagen11](https://user-images.githubusercontent.com/62676424/123580542-4efa6b80-d797-11eb-8c82-7076a442909a.png)
+
+![imagen28](https://user-images.githubusercontent.com/62676424/123580713-9aad1500-d797-11eb-9687-64a02a900019.png)
 

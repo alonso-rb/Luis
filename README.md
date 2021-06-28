@@ -45,7 +45,8 @@ El programa comienza con "Inicio de Sesión", el cual, le permite al gestor colo
 
 #### **Formulario: Menú**
 
-![MenuPrincipal](https://user-images.githubusercontent.com/62676424/123670075-0de77300-d7fa-11eb-9f10-b3419b42e62c.jpeg)
+![MenuPrincipal](https://user-images.githubusercontent.com/62676424/123672178-48520f80-d7fc-11eb-9e05-67ab20b4dc38.jpeg)
+
 
 Una vez se inicia sesión correctamente se dirige hacia el menú principal, el menú principal tiene 3 botones los cuales permiten al usuario dirigirse a tres partes del programa, las cuales son: registro (permite al gestor registrar a un ciudadano), prechequeo (permite al gestor buscar a un ciudadano, modificar sus datos de ser necesario o crearlos y avanzarlo en la cola) y monitoreo (permite ver si hay alguien en cola, registrar el momento en el que llega al monitoreo, avanzarlo a vacunación y posterior a ello, a observación donde se registra la cita para la segunda dósis).
 

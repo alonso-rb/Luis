@@ -1,4 +1,4 @@
-![Imagen11](https://user-images.githubusercontent.com/62676424/123580528-42761300-d797-11eb-8e14-9e9f1d65b616.png)
+
 # **DOCUMENTACIÓN** **OFICIAL**
 ***
 ##  Aspectos técnicos del programa

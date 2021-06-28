@@ -35,10 +35,24 @@ A raíz de la pandemia del Covid 19, el Gobierno de El Salvador con el fin de pr
 
 >### **Formularios**
 
-A continuación se presentarán los 6 formularios junto con su descripción, funcionalidad e instrucciones de uso.
+A continuación se presentarán los 7 formularios junto con su descripción, funcionalidad e instrucciones de uso.
 
 #### **Formulario: Inicio de Sesión**
 
 ![InicioSesion](https://user-images.githubusercontent.com/62676424/123669058-f1970680-d7f8-11eb-834e-bea6df45e98a.jpeg)
 
 El programa comienza con "Inicio de Sesión", el cual, le permite al gestor colocar su nombre de usuario y contraseña para iniciar sesión en la plataforma y utilizarla. Es imperativo que el usuario coloque correctamente sus datos, caso contrario, no podrá ingresar a la plataforma.
+
+#### **Formulario: Menú**
+
+![MenuPrincipal](https://user-images.githubusercontent.com/62676424/123670075-0de77300-d7fa-11eb-9f10-b3419b42e62c.jpeg)
+
+Una vez se inicia sesión correctamente se dirige hacia el menú principal, el menú principal tiene 3 botones los cuales permiten al usuario dirigirse a tres partes del programa, las cuales son: registro (permite al gestor registrar a un ciudadano), prechequeo (permite al gestor buscar a un ciudadano, modificar sus datos de ser necesario o crearlos y avanzarlo en la cola) y monitoreo (permite ver si hay alguien en cola, registrar el momento en el que llega al monitoreo, avanzarlo a vacunación y posterior a ello, a observación donde se registra la cita para la segunda dósis).
+
+
+
+
+
+
+
+

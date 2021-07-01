@@ -100,6 +100,9 @@ Del gestor y el usuario necesitarlo, se podrá generar un PDF que indique los da
 
 
 
+| Error      |                                                        Imagen                                                        | Descripción |
+|------------|:--------------------------------------------------------------------------------------------------------------------:|:-----------:|
+| Prechequeo | ![loginerror](https://user-images.githubusercontent.com/62676424/124168142-f90d1880-da61-11eb-8455-49fa3f403187.png) |             |
 
 
 

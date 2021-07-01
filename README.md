@@ -13,7 +13,7 @@
 
 > ### **Patrones de diseño**
 
-**View Model**: El patrón de diseño view model fue utilizado en nuestro proyecto, esto debido a la organización y facilidad que otorga al trabajar, con todos los forms que se generaron en una sola carpeta (View), permite que todas las interfaces gráficas estén agrupadas y sea más fácil de trabajar con ellas.
+**View Model**
 
 > ### **Paquetes externos**
 

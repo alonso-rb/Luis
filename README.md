@@ -92,7 +92,8 @@ Una vez se avance al ciudadano en la cola, se dirigirá al registro de vacunaci�
 
 #### **Formulario: Observación**
 
-![obser](https://user-images.githubusercontent.com/62676424/124167237-0c6bb400-da61-11eb-8d1b-df0a53b7870e.png)
+![Observation](https://user-images.githubusercontent.com/62676424/124181471-c28bc980-da72-11eb-8b78-3ea5d70800b1.png)
+
 
 Como último paso, se avanzará al ciudadano a observación, donde tendrá que seleccionar al ciudadano y seleccionar cuál o cuáles son los efectos secundarios que presenta después que se le haya aplicado la vacuna.  En caso de no haber ninguno, no se seleccionará nada. Independientemente el ciudadano presente o no efectos secundarios, se deberá presionar el botón agregar efectos. El botón agrega los efectos secundarios y también permite agendar la segunda cita del ciudadano. 
 

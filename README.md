@@ -74,7 +74,7 @@ El botón Guardar permite registrar al ciudadano en el sistema, al igual que reg
 El formulario contiene en la parte superior en la que debe ingresar el ID del ciudadano a buscar (este ID debe estar registrado y no es válido colocar caracteres que no le corresponden al ID), una vez se coloque el ID que corresponde al ciudadano y se presione buscar, aparecerán los datos del ciudadano.
 Si el usuario colocó un dato equivocado en su registro, el gestor podrá corregírselo. Una vez, se verifiquen los datos, debe asegurarse que la persona de su consentimiento para recibir la dosis, caso contrario, no lo dejará avanzar.
 
-![PRECHEQUEO EXITO](https://user-images.githubusercontent.com/62676424/124164577-0d4f1680-da5e-11eb-8dac-c192189e20c2.png)
+![Precheck succesful](https://user-images.githubusercontent.com/62676424/124181843-4d6cc400-da73-11eb-9d3e-a01d47cb3294.png)
 
 Una vez el ciudadano ha dado su consentimiento y se selecciona dicha casilla, aparecerá un cuadro de diálogo cuyo título será "operación exitosa", que indicara que el ciudadano ha sido ingresado a la cola. Para continuar con monitoreo de citas, deberá dar clic en volver, el cual le redirigirá al menú principal.
 

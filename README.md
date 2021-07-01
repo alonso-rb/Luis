@@ -69,7 +69,7 @@ El botón Guardar permite registrar al ciudadano en el sistema, al igual que reg
 
 #### **Formulario: Prechequeo**
 
-![pRECHEQUEO](https://user-images.githubusercontent.com/62676424/124164192-b0536080-da5d-11eb-88a7-a705047a653b.jpg)
+![Precheck](https://user-images.githubusercontent.com/62676424/124181584-ecdd8700-da72-11eb-85cf-853c4c9d7c44.jpg)
 
 El formulario contiene en la parte superior en la que debe ingresar el ID del ciudadano a buscar (este ID debe estar registrado y no es válido colocar caracteres que no le corresponden al ID), una vez se coloque el ID que corresponde al ciudadano y se presione buscar, aparecerán los datos del ciudadano.
 Si el usuario colocó un dato equivocado en su registro, el gestor podrá corregírselo. Una vez, se verifiquen los datos, debe asegurarse que la persona de su consentimiento para recibir la dosis, caso contrario, no lo dejará avanzar.

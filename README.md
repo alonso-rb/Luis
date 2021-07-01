@@ -102,7 +102,7 @@ Del gestor y el usuario necesitarlo, se podrá generar un PDF que indique los da
 
 | Error      |                                                        Imagen                                                        | Descripción |
 |------------|:--------------------------------------------------------------------------------------------------------------------:|:-----------:|
-| Prechequeo | ![loginerror](https://user-images.githubusercontent.com/62676424/124168142-f90d1880-da61-11eb-8455-49fa3f403187.png) |             |
+| Prechequeo | ![loginerror](https://user-images.githubusercontent.com/62676424/124168142-f90d1880-da61-11eb-8455-49fa3f403187.png) |Como se había mencionado al explicar cada formulario, es imperativo que el gestor coloque bien sus datos, caso contrario, aparecerá un cuadro de diálogo que indicará "Error" y no lo dejará avanzar hasta ingresar el nombre de usuario y contraseña correctos.|
 
 
 

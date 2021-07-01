@@ -45,28 +45,68 @@ El programa comienza con "Inicio de Sesión", el cual, le permite al gestor colo
 
 #### **Formulario: Menú**
 
-![FRM NEW MENU](https://user-images.githubusercontent.com/62676424/123704144-9548dc80-d822-11eb-84b0-74c1d8db03c6.jpeg)
+![menu](https://user-images.githubusercontent.com/62676424/124159469-6fa51880-da58-11eb-82ed-84eeda460311.png)
 
+Una vez se inicia sesión correctamente se dirige hacia el menú principal, el menú principal tiene 4 botones los cuales permiten al usuario dirigirse a cuatro partes del programa, las cuales son: empleados (permite al gestor visualizar la lista de empleados y buscar los datos de uno), registro (permite al gestor registrar a un ciudadano), prechequeo (permite al gestor buscar a un ciudadano, modificar sus datos de ser necesario o crearlos y avanzarlo en la cola) Y monitoreo (permite ver si hay alguien en cola, registrar el momento en el que llega al monitoreo, avanzarlo a vacunación y posterior a ello, a observación donde se registra la cita para la segunda dosis).
 
-Una vez se inicia sesión correctamente se dirige hacia el menú principal, el menú principal tiene 4 botones los cuales permiten al usuario dirigirse a CUATRO partes del programa, las cuales son: registro (permite al gestor registrar a un ciudadano), prechequeo (permite al gestor buscar a un ciudadano, modificar sus datos de ser necesario o crearlos y avanzarlo en la cola) Y monitoreo (permite ver si hay alguien en cola, registrar el momento en el que llega al monitoreo, avanzarlo a vacunación y posterior a ello, a observación donde se registra la cita para la segunda dósis).
+#### **Formulario: Empleados**
+
+![empl](https://user-images.githubusercontent.com/62676424/124160621-ad567100-da59-11eb-97ae-59eb1e57dd5c.png)
+
+Al escoger la opción empleados en el menú, el gestor podrá visualizar un listado con todos los empleados. El gestor, podrá buscar un empleado en particular, ingresando su ID en el cuadro de texto y presionando el botón de buscar, una vez encontrado, se visualizarán únicamente los datos de dicho empleado.
 
 #### **Formulario: Registro**
 
 ![RegistroCiudadanos](https://user-images.githubusercontent.com/62676424/123672393-7fc0bc00-d7fc-11eb-8d60-1049e76b2cc9.jpeg)
 
-Al escoger la opción de registro en el menú, se ingresa hacia el formulario Registro, ahí se deberá completar correctamente los datos que se solicitan; de manera obligatoria se debe completar: número de DUI (sin guion y recordando que los números de DUI y tienen nueve dígitos), nombre de la persona, dirección actual, número de teléfono (sin guion y recordando que los teléfonos tiene ocho dígitos) y la fecha de nacimiento de la persona; de manera opcional se debe completar el correo electrónico, si pertenece a una institución de prioridad deberá completar el número identificador y seleccionar a la institución a la que pertenece con la barra desplegable "Escoja la institución" (de pertencer a una institución, es imperativo que ingrese el número identificador y seleccione la institución, si uno de los dos datos falta, no le permitirá avanzar), y finalmente seleccionar los recuadros correpondientes a las enfermedades crónicas que padece, de no padecer ninguna, simplemente no seleccionar ninguna opción.
+Al escoger la opción de registro en el menú, se ingresa hacia el formulario Registro, ahí se deberá completar correctamente los datos que se solicitan; de manera obligatoria se debe completar: número de DUI (sin guion y recordando que los números de DUI tienen nueve dígitos), nombre de la persona, dirección actual, número de teléfono (sin guion y recordando que los teléfonos tiene ocho dígitos) y la fecha de nacimiento de la persona; de manera opcional se debe completar el correo electrónico, si pertenece a una institución de prioridad deberá completar el número identificador y seleccionar a la institución a la que pertenece con la barra desplegable "Escoja la institución" (de pertenecer a una institución, es imperativo que ingrese el número identificador y seleccione la institución, si uno de los dos datos falta, no le permitirá avanzar), y finalmente seleccionar los recuadros correspondientes a las enfermedades crónicas que padece, de no padecer ninguna, simplemente no seleccionar ninguna opción
 
 Abajo de los datos a solicitar hay dos botones, el primero , de izquierda a derecha, es generar PDF, el segundo es el botón Guardar. 
 
-El botón Guardar permite registrar al ciudadano en el sistema, al igual que registrar su cita, de haber llenado adecuadamente el formulario, aparecerá un cuadro de diálogo, anunciando el éxito de la operación.
+![boton pdf y guardar](https://user-images.githubusercontent.com/62676424/124163580-ecd28c80-da5c-11eb-8efc-b2b4e95da4ab.png)
 
-![RegCiudaÉxito](https://user-images.githubusercontent.com/62676424/123703512-b4933a00-d821-11eb-998b-f0a892afbe1b.jpeg)
-
-El botón generar PDF permite generar y guardar en la computadora un documento PDF, esto se podrá hacer únicamente si usted ha registrado al usuario con anticipación, de lo contrario, dará error.
-
-![GenerarPDFCiudadano](https://user-images.githubusercontent.com/62676424/123703742-0b007880-d822-11eb-8194-094762ce5900.jpeg)
+El botón Guardar permite registrar al ciudadano en el sistema, al igual que registrar su cita, de haber llenado adecuadamente el formulario, aparecerá un cuadro de diálogo, anunciando el éxito de la operación. El botón generar PDF permite generar y guardar en la computadora un documento PDF, esto se podrá hacer únicamente si usted ha registrado al usuario con anticipación, de lo contrario, dará error.
 
 #### **Formulario: Prechequeo**
+
+![pRECHEQUEO](https://user-images.githubusercontent.com/62676424/124164192-b0536080-da5d-11eb-88a7-a705047a653b.jpg)
+
+El formulario contiene en la parte superior en la que debe ingresar el ID del ciudadano a buscar (este ID debe estar registrado y no es válido colocar caracteres que no le corresponden al ID), una vez se coloque el ID que corresponde al ciudadano y se presione buscar, aparecerán los datos del ciudadano.
+Si el usuario colocó un dato equivocado en su registro, el gestor podrá corregírselo. Una vez, se verifiquen los datos, debe asegurarse que la persona de su consentimiento para recibir la dosis, caso contrario, no lo dejará avanzar.
+
+![PRECHEQUEO EXITO](https://user-images.githubusercontent.com/62676424/124164577-0d4f1680-da5e-11eb-8dac-c192189e20c2.png)
+
+Una vez el ciudadano ha dado su consentimiento y se selecciona dicha casilla, aparecerá un cuadro de diálogo cuyo título será "operación exitosa", que indicara que el ciudadano ha sido ingresado a la cola. Para continuar con monitoreo de citas, deberá dar clic en volver, el cual le redirigirá al menú principal.
+
+#### **Formulario: Monitoreo de citas**
+
+![citasss](https://user-images.githubusercontent.com/62676424/124166581-438d9580-da60-11eb-9860-a7f610dd6819.png)
+
+Al escoger la opción monitoreo en el menú principal, se encontrará con la ventana, monitoreo de citas, ahí, se tendrá acceso a la cola de pacientes esperando por avanzar en su proceso, para avanzar al ciudadano en la cola, el gestor podrá seleccionar el botón con la flecha que se encuentra a la izquierda del DUI del ciudadano que desea avanzar y podrá agregarlo a la lista.
+
+#### **Formulario: Registro de vacunación**
+
+![RegistroVacunacion](https://user-images.githubusercontent.com/62676424/124166726-733c9d80-da60-11eb-9c1b-08cd0391360a.jpg)
+
+Una vez se avance al ciudadano en la cola, se dirigirá al registro de vacunación, al ser vacunado el ciudadano, se deberá presionar el botón "vacunado". Al presionar el botón, habrá un tiempo de espera, cuando este termine, la barra indicará al completarse de color verde y aparecerá un cuadro de diálogo mencionando que el tiempo de observación ha terminado.
+
+#### **Formulario: Observación**
+
+![obser](https://user-images.githubusercontent.com/62676424/124167237-0c6bb400-da61-11eb-8d1b-df0a53b7870e.png)
+
+Como último paso, se avanzará al ciudadano a observación, donde tendrá que seleccionar al ciudadano y seleccionar cuál o cuáles son los efectos secundarios que presenta después que se le haya aplicado la vacuna.  En caso de no haber ninguno, no se seleccionará nada. Independientemente el ciudadano presente o no efectos secundarios, se deberá presionar el botón agregar efectos. El botón agrega los efectos secundarios y también permite agendar la segunda cita del ciudadano. 
+
+Del gestor y el usuario necesitarlo, se podrá generar un PDF que indique los datos del ciudadano, los efectos secundarios que presentó y el detalle de su segunda cita.
+
+
+
+
+
+
+
+
+
+
 
 
 
